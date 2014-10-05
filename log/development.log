@@ -8175,3 +8175,3610 @@ Completed 200 OK in 485ms (Views: 482.3ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/couplepic.png" for 127.0.0.1 at 2014-10-05 14:54:40 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:30:05 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.8ms)
+  Rendered global/_header.html.erb (0.3ms)
+Completed 200 OK in 796ms (Views: 734.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:30:07 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:32:51 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (24.7ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 498ms (Views: 495.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:32:52 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:33:33 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (3.5ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 489ms (Views: 486.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:33:34 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:33:57 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 185ms
+
+ActionView::Template::Error (Invalid CSS after "  width": expected "{", was "}"
+  (in /home/mandym/dev/myrepos/heartfully-final/app/assets/stylesheets/homepage.css.scss.erb:26)):
+    2: <html>
+    3: <head>
+    4:   <title>Heartfully</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+  app/assets/stylesheets/homepage.css.scss.erb:26
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___2046357272292694869_70219646147340'
+  app/controllers/projects_controller.rb:3:in `home'
+
+
+  Rendered /home/mandym/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.2ms)
+  Rendered /home/mandym/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.9ms)
+  Rendered /home/mandym/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (38.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:34:13 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.2ms)
+  Rendered global/_header.html.erb (0.3ms)
+Completed 200 OK in 822ms (Views: 819.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:14 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:14 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:14 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:14 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:14 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:14 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:14 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:14 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:14 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:34:15 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:34:44 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (6.0ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 645ms (Views: 642.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:45 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:34:46 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:35:13 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.1ms)
+  Rendered global/_header.html.erb (0.3ms)
+Completed 200 OK in 664ms (Views: 660.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:35:14 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:35:15 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:39:15 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (3.4ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 499ms (Views: 496.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:15 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:39:16 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:39:56 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.4ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 642ms (Views: 639.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:39:57 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:40:59 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.1ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 704ms (Views: 700.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:00 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:00 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:00 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:00 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:00 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:00 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:00 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:00 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:00 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:00 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:00 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:00 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:41:01 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:41:25 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.3ms)
+  Rendered global/_header.html.erb (0.3ms)
+Completed 200 OK in 644ms (Views: 640.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:41:26 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:41:53 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.1ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 635ms (Views: 632.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:53 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:53 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:53 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:53 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:53 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:53 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:41:54 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:42:11 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.5ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 685ms (Views: 677.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:12 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:12 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:12 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:12 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:12 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:12 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:12 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:12 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:12 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:12 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:42:13 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:42:50 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.3ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 488ms (Views: 485.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:42:51 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:44:17 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (7.0ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 585ms (Views: 578.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:44:18 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:44:36 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (3.0ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 518ms (Views: 512.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:36 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:36 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:44:37 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:44:46 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (5.5ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 535ms (Views: 532.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:47 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:48 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:44:48 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:44:48 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:44:48 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:44:48 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:45:59 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (3.1ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 515ms (Views: 511.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:46:00 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:46:19 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (8.2ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 518ms (Views: 515.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:46:20 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:46:39 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.1ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 601ms (Views: 598.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:39 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:39 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:46:40 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:47:12 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.3ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 615ms (Views: 611.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:47:13 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:47:14 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:48:08 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.2ms)
+  Rendered global/_header.html.erb (0.3ms)
+Completed 200 OK in 697ms (Views: 693.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:10 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:10 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:10 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:48:10 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:48:10 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:48:10 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:48:10 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:48:10 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:50:42 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (6.7ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 589ms (Views: 585.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:50:43 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:50:44 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:50:44 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:50:44 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:51:05 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (0.9ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 722ms (Views: 719.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:51:07 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:51:19 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.0ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 657ms (Views: 653.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 15:51:20 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:55:16 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (5.2ms)
+  Rendered global/_header.html.erb (0.3ms)
+Completed 200 OK in 501ms (Views: 496.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:55:17 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 15:58:23 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (2.6ms)
+  Rendered global/_header.html.erb (0.3ms)
+Completed 200 OK in 510ms (Views: 507.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 15:58:23 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 15:58:23 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 15:58:23 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 15:58:23 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 15:58:23 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 15:58:23 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 15:58:23 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 15:58:23 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 15:58:23 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 15:58:24 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 16:00:36 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.0ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 686ms (Views: 683.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:37 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:38 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:38 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:38 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 16:00:38 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 16:00:38 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 16:00:38 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 16:00:38 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 16:00:38 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 16:01:04 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (3.8ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 488ms (Views: 485.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 16:01:05 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 16:01:37 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.0ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 638ms (Views: 633.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:37 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:37 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:37 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 16:01:38 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 16:02:16 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (4.6ms)
+  Rendered global/_header.html.erb (0.3ms)
+Completed 200 OK in 679ms (Views: 676.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 16:02:17 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 16:03:31 -0400
+Processing by ProjectsController#home as HTML
+  Rendered projects/home.html.erb within layouts/application (1.0ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 644ms (Views: 641.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 16:03:31 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 16:03:31 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/lovelogo.png" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/worldicon.png" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/presentlogo.png" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/assets/best_photo_ever.jpg" for 127.0.0.1 at 2014-10-05 16:03:32 -0400
+
+
+Started GET "/questions" for 127.0.0.1 at 2014-10-05 16:03:49 -0400
+Processing by UsersController#questions as HTML
+  Rendered users/questions.html.erb within layouts/application (2.7ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 513ms (Views: 505.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2014-10-05 16:03:54 -0400
+Processing by ProjectsController#index as HTML
+  [1m[35mProject Load (37.1ms)[0m  SELECT "projects".* FROM "projects"
+  Rendered projects/index.html.erb within layouts/application (41.4ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 512ms (Views: 472.1ms | ActiveRecord: 37.1ms)
+
+
+Started GET "/projects/7" for 127.0.0.1 at 2014-10-05 16:03:57 -0400
+Processing by ProjectsController#show as HTML
+  Parameters: {"id"=>"7"}
+  [1m[36mProject Load (0.7ms)[0m  [1mSELECT  "projects".* FROM "projects"  WHERE "projects"."id" = ? LIMIT 1[0m  [["id", 7]]
+Completed 404 Not Found in 6ms
+
+ActiveRecord::RecordNotFound (Couldn't find Project with 'id'=7):
+  app/controllers/projects_controller.rb:11:in `show'
+
+
+  Rendered /home/mandym/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.3ms)
+  Rendered /home/mandym/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendered /home/mandym/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.6ms)
+  Rendered /home/mandym/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (41.4ms)
+
+
+Started GET "/projects/7" for 127.0.0.1 at 2014-10-05 16:03:57 -0400
+Processing by ProjectsController#show as HTML
+  Parameters: {"id"=>"7"}
+  [1m[35mProject Load (0.3ms)[0m  SELECT  "projects".* FROM "projects"  WHERE "projects"."id" = ? LIMIT 1  [["id", 7]]
+Completed 404 Not Found in 4ms
+
+ActiveRecord::RecordNotFound (Couldn't find Project with 'id'=7):
+  app/controllers/projects_controller.rb:11:in `show'
+
+
+  Rendered /home/mandym/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.3ms)
+  Rendered /home/mandym/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.9ms)
+  Rendered /home/mandym/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.0ms)
+  Rendered /home/mandym/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (47.6ms)
+
+
+Started GET "/user" for 127.0.0.1 at 2014-10-05 16:04:06 -0400
+Processing by UsersController#user as HTML
+  Rendered users/user.html.erb within layouts/application (2.9ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 526ms (Views: 524.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:06 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/assets/couplepic.png" for 127.0.0.1 at 2014-10-05 16:04:07 -0400
+
+
+Started GET "/projects" for 127.0.0.1 at 2014-10-05 16:04:18 -0400
+Processing by ProjectsController#index as HTML
+  [1m[36mProject Load (0.6ms)[0m  [1mSELECT "projects".* FROM "projects"[0m
+  Rendered projects/index.html.erb within layouts/application (5.2ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 502ms (Views: 498.2ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:19 -0400
+
+
+Started GET "/projects/1" for 127.0.0.1 at 2014-10-05 16:04:20 -0400
+Processing by ProjectsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mProject Load (0.3ms)[0m  SELECT  "projects".* FROM "projects"  WHERE "projects"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered projects/_show.html.erb (0.6ms)
+  Rendered projects/show.html.erb within layouts/application (99.1ms)
+  Rendered global/_header.html.erb (0.2ms)
+Completed 200 OK in 649ms (Views: 643.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/header.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/global.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/homepage.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/questionnaire.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/style_guide.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/user.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 16:04:21 -0400

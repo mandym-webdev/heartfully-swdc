@@ -10,24 +10,48 @@
 		<div class="row story-wrapper">
 
 			<div class="story col-lg-4 ">
-				<img src="<%= asset_path('lovelogo.png') %>"  alt="hands with flower">
-				<h1 class="icon-title">Match</h1>
+				<div class="row">
+					<img class="ind-story" src="<%= asset_path('lovelogo.png') %>">
+				</div>
+				<div class="row ind-story">
+					<span class="logo">Match</span>
+				</div>
+				<div class="row ind-story">
+					<p>We start off by matching your interests, personality and wedding information to a range of charitable organizations.</p>
+				</div>
+				
 			</div>
 
 			<div class="story col-lg-4 ">
-				<img src="<%= asset_path('worldicon.png') %>"  alt="hands with flower">
-				<h1 class="icon-title">Find</h1>
+				<div class="row">
+					<img src="<%= asset_path('worldicon.png') %>">
+				</div>
+				<div class="row ind-story">
+					<span class="logo">Find</span>
+				</div>
+				<div class="row ind-story">
+					<p>Find out more information about your matched charities, including what exactly your wedding guests will be able to contribute towards.</p>
+				</div>
 			</div>
 
 			<div class="story col-lg-4 ">
-				<img src="<%= asset_path('presentlogo.png') %>"  alt="hands with flower">
-				<h1 class="icon-title">Give</h1>
+				<div class="row">
+					<img src="<%= asset_path('presentlogo.png') %>">
+				</div>
+				<div class="row ind-story">
+					<span class="logo">Give</span>
+				</div>
+				<div class="row ind-story">
+					<p>Dedicate all or part of your registry to the charity of your choice and have your wedding guests help the world in your name.</p>
+				</div>
 			</div>
+
 		</div>
 
 		<div class="row story-wrapper registry-button">
-			<a href='/questions' class='btn btn-lg btn-primary registry-create-button'>Create Your Registry</a>
-
+			<div class="col-lg-12 registry-create-button">
+				<a href='/questions' class='btn btn-lg btn-primary '>Create Your Registry</a>
+			</div>
 		</div>
 	</div>
 
