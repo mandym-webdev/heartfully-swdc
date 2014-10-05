@@ -1,9 +1,36 @@
 @import "style_guide";
 
+#user-wrapper {
+  padding: 10px;
+}
+
 .user-project-img {
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+.user-header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.user-project-row {
+  padding-top: 10px;
+}
+
+.user-pic {
+  border: solid 3px $header-color;
+}
+
+
+.user-header p{
+  font-family: 'Pacifico', cursive;
+  color: $header-color;
+  font-size: 35px;
+  text-align: center;
 }
 
 .projectLineItem {
@@ -93,3 +120,4 @@
   margin: 0 auto;
   padding-top: 10px;
 }
+
