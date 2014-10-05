@@ -1,14 +1,17 @@
 @import "style_guide";
 @import "global";
 
-.logo, .navigation {
+/*.logo, .navigation {
   @include header-formats;
-}
+}*/
 
 .navigation {
   color: $header-color;
+  text-align: right;
 }
 
 .logo {
   font-size: 40px;
+  @include header-formats;
 }
+
