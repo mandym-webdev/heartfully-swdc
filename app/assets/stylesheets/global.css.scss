@@ -1,0 +1,72 @@
+@import "style_guide";
+
+* {
+	box-sizing: border-box;
+}
+
+@mixin header-formats {
+	font-family: 'Pacifico', cursive;
+	color: $header-color;
+}
+
+
+
+header {
+	z-index: 1;
+	position: fixed;
+	background-color: #ffffff;
+	top: 0;
+	width: 100%;
+	height: 100px;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	font-size: 3em;
+		a {
+			color: $header-color;
+			text-decoration: none;
+			font-size: 24px;
+			text-align: right;
+		}
+
+		a:hover {
+			text-decoration: none;
+			color: $emphasis-color;
+		}
+
+		img {
+			width: 15%;
+			float: left;
+			margin-top: 10px;
+			margin-left: 20px;
+		}
+}
+
+.container {
+	z-index: -1;
+	width: 100%;
+	border: 1px solid grey;
+	margin-top: 100px;
+	padding-left: .01px;
+	padding-right: .01px;
+	padding-bottom: 10px;
+}
+
+h1 {
+	@include header-formats;
+	margin: 0px;
+	padding-bottom: 5px
+}
+
+.btn {
+ 	background-color: $emphasis-color;
+ 	border:$emphasis-color;
+}
+.panel-primary>.panel-heading {
+ 	background-color: $emphasis-color;
+ 	border-color:$emphasis-color;
+ }
+
+ .panel-primary {
+border-color: $emphasis-color;
+}

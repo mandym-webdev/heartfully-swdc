@@ -1,0 +1,239 @@
+<div id='user-wrapper'>
+
+	<div id='user-header'>
+		Welcome to <%= @user.person1_first %> and <%= @user.person2_first %>'s Wedding Registry Page
+	</div>
+
+	<div class='row featurette'>
+		<div class='col-md-6'>
+			<img class='featurette-image img-responsive' src='<%= @user.couple_pic %>'>
+		</div>
+		<div class='col-md-6'>
+			<div class='panel panel-primary'>
+				<div class='panel-heading'>
+					<h3 class='panel-title'>Our Story</h3>
+				</div>
+				<div class='panel-body'><%= @user.couple_bio %>
+        </div>				
+			</div>
+
+      <div class='panel panel-primary'>
+        <div class='panel-heading'>
+          <h3 class='panel-title'>Our Project</h3>
+        </div>
+        <div class='panel-body'>We have decided that we want our wedding to make a difference in the world so have decided to sponsor the following project as our wedding registry.  Below you will see a list of items that this project requires to get off the ground and we invite you to choose the items that you would like to purchase on our behalf.
+        </div>
+      </div>
+		</div>
+	</div>
+	
+	<div class='row featurette'>
+    <div class='col-md-4'>
+      <img class='featurette-image user-project-img' src='<%= @project.project_pic %>'>
+    </div>
+    <div class='col-md-8'>
+      <h2 class='featurette-heading'><%= @project.project_name %></h2>
+      <h3><%= @project.project_location %></h3>
+      <h3><%= @project.project_type %></h3>
+      <h3>$<%= @project.project_amount %></h3>
+      <p ><%= @project.project_description %></p>
+
+    </div>
+  </div>
+
+
+	<div class="projectLineItem-titleBox">
+    <h3> Primary school classroom in Mhaji village, Tanzania</h3>
+    <p>Make a material contribution to this project as part of your wedding gift.  Select the specific materials you would like to contribute to the project as part of your wedding gift.</p>
+    
+    <p>Your gift total so far: $<span id="gift-total">0 </span> <button id="checkOutButton"> My gift is complete - Check out! </button> <p>
+  </div>
+
+<div class="projectList"> <!-- wrapper around all the project boxes -->
+
+<div class="projectLineItem"> <!-- start project line item box -->
+
+   <div class="projectLineItem-imageBox"> <img class="image" src="http://colonialamericas.voices.wooster.edu/files/2010/10/1155-inca-stones.jpg" alt="picture of stones" />
+  </div>
+  
+   <div class="projectLineItem-detailsBox">
+     <div class="projectLineItem-elementName"> Stones
+     </div>
+      
+     <div> </div>
+     
+     <div class="projectLineItem-numberRemaining"> <span id="needed1">540</span> needed
+     </div> 
+      
+     <div class="projectLineItem-numberBought"><span id="bought1">52</span> bought
+     </div>   
+     
+     <div> </div>
+     
+     <div class="projectLineItem-unitCost">$1 per stone 
+     </div>
+
+     <div class="projectLineItem-buyAmount">
+       <input type="number" value ="0" id="item1" class="projectLineItem-quantityInput">         
+       <button id="button1"> Add to my wedding gift </button>
+     </div>
+       
+   </div>  <!-- end details box -->   
+</div> <!-- end project line item box -->
+
+<div class="projectLineItem"> <!-- start project line item box -->
+
+   <div class="projectLineItem-imageBox"> <img class="image" src="http://c2.staticflickr.com/8/7172/6427036845_a5fb4bb910_z.jpg" alt="picture of bricks" />
+  </div>
+  
+   <div class="projectLineItem-detailsBox">
+     <div class="projectLineItem-elementName"> Bricks
+     </div>
+      
+     <div> </div>
+     
+     <div class="projectLineItem-numberRemaining"> <span id="needed2">870</span> needed
+     </div> 
+      
+     <div class="projectLineItem-numberBought"><span id="bought2">130</span> bought
+     </div>   
+     
+     <div> </div>
+     
+     <div class="projectLineItem-unitCost">$1 per brick 
+     </div>
+
+     <div class="projectLineItem-buyAmount">
+       <input type="number" value ="0" id="item2" class="projectLineItem-quantityInput">         
+       <button id="button2"> Add to my wedding gift </button>
+     </div>
+     
+   </div>  <!-- end details box -->   
+</div> <!-- end project line item box -->
+
+<div class="projectLineItem"> <!-- start project line item box -->
+
+   <div class="projectLineItem-imageBox"> <img class="image" src="http://friedkinfund.files.wordpress.com/2012/09/dsc01744.jpg?w=950&h=425&crop=1" alt="picture of timber" />
+  </div>
+  
+   <div class="projectLineItem-detailsBox">
+     <div class="projectLineItem-elementName"> Timber
+     </div>
+      
+     <div> </div>
+     
+     <div class="projectLineItem-numberRemaining"> <span id="needed3">90</span> needed
+     </div> 
+      
+     <div class="projectLineItem-numberBought"><span id="bought3">10</span> bought
+     </div>   
+     
+     <div> </div>
+     
+     <div class="projectLineItem-unitCost">$10 per bundle
+     </div>
+
+     <div class="projectLineItem-buyAmount">
+       <input type="number" value ="0" id="item3" class="projectLineItem-quantityInput">         
+       <button id="button3"> Add to my wedding gift </button>
+     </div>
+     
+   </div>  <!-- end details box -->   
+</div> <!-- end project line item box -->
+
+<div class="projectLineItem"> <!-- start project line item box -->
+
+   <div class="projectLineItem-imageBox"> <img class="image" src="http://www.hellogh.com/wp-content/uploads/2014/07/cement-bags-19858441.jpg" alt="picture of cement" />
+  </div>
+  
+   <div class="projectLineItem-detailsBox">
+     <div class="projectLineItem-elementName"> Cement
+     </div>
+      
+     <div> </div>
+     
+     <div class="projectLineItem-numberRemaining"> <span id="needed4">64</span> needed
+     </div> 
+      
+     <div class="projectLineItem-numberBought"><span id="bought4">36</span> bought
+     </div>   
+     
+     <div> </div>
+     
+     <div class="projectLineItem-unitCost">$8 per bag
+     </div>
+
+     <div class="projectLineItem-buyAmount">
+       <input type="number" value ="0" id="item4" class="projectLineItem-quantityInput">         
+       <button id="button4"> Add to my wedding gift </button>
+     </div>
+     
+   </div>  <!-- end details box -->   
+</div> <!-- end project line item box -->
+
+<div class="projectLineItem"> <!-- start project line item box -->
+
+   <div class="projectLineItem-imageBox"> <img class="image" src="http://2.bp.blogspot.com/-1c7L78jsTAo/U-u5DChbt7I/AAAAAAAAHho/rhlmNVGHxgA/s1600/vc-6.jpg" alt="picture of doors" />
+  </div>
+  
+   <div class="projectLineItem-detailsBox">
+     <div class="projectLineItem-elementName"> Doors
+     </div>
+      
+     <div> </div>
+     
+     <div class="projectLineItem-numberRemaining"> <span id="needed5">10</span> needed
+     </div> 
+      
+     <div class="projectLineItem-numberBought"><span id="bought5">3</span> bought
+     </div>   
+     
+     <div> </div>
+     
+     <div class="projectLineItem-unitCost">$150 per door 
+     </div>
+
+     <div class="projectLineItem-buyAmount">
+       <input type="number" value ="0" id="item5" class="projectLineItem-quantityInput">         
+       <button id="button5"> Add to my wedding gift </button>
+     </div>
+     
+   </div>  <!-- end details box -->   
+</div> <!-- end project line item box -->
+
+
+
+<div class="projectLineItem"> <!-- start project line item box -->
+
+   <div class="projectLineItem-imageBox"> <img class="image" src="http://2.bp.blogspot.com/-DNEmUg9LaRA/U1VrGWx6aeI/AAAAAAAAFa4/iobuBcf6IiU/s1600/back+view+window+shuttering+and+finishings.jpg" alt="picture of windows" />
+  </div>
+  
+   <div class="projectLineItem-detailsBox">
+     <div class="projectLineItem-elementName"> Windows
+     </div>
+      
+     <div> </div>
+     
+     <div class="projectLineItem-numberRemaining"> <span id="needed6">27</span> needed
+     </div> 
+      
+     <div class="projectLineItem-numberBought"><span id="bought6">13</span> bought
+     </div>   
+     
+     <div> </div>
+     
+     <div class="projectLineItem-unitCost">$75 per window 
+     </div>
+
+     <div class="projectLineItem-buyAmount">
+       <input type="number" value ="0" id="item6" class="projectLineItem-quantityInput">         
+       <button id="button6"> Add to my wedding gift </button>
+     </div>
+     
+   </div>  <!-- end details box -->   
+</div> <!-- end project line item box -->
+
+</div> <!-- end projectList -->
+
+</div>
+

@@ -1,0 +1,14 @@
+@import "style_guide";
+@import "global";
+
+.logo, .navigation {
+  @include header-formats;
+}
+
+.navigation {
+  color: $header-color;
+}
+
+.logo {
+  font-size: 40px;
+}

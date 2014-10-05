@@ -1,0 +1,17 @@
+<% @projects.each_slice(3) do |row| %>
+	<div class='row projects-list'>
+		<% row.each do |project|  %>
+			<div class='col-lg-4 project-glimpse'>
+				<img class='img-circle' src="<%= project.project_pic %>" />
+				<h1 class='project-glimpse-name'><%= project.project_name %></h1>
+				<h3 class='project-glimpse-location'><%= project.project_location %></h3>
+				<h3 class='project-glimpse-type'><%= project.project_type %></h3>
+				<h3 class='project-glimpse-amount'>$<%= project.project_amount %></h3>			
+				<p class='project-glimpse-descriptions'><%= project.project_description %></p>
+				<p class='project-glimpse-link'>
+					<%= link_to "View details", project_path(project) %>
+				</p>
+			</div>
+		<% end %>		
+	</div>
+<% end %>

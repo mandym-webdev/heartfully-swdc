@@ -1,0 +1,66 @@
+<h2 >Sign up</h2>
+<div id='signup-form'>
+
+  <%= form_for(resource, as: resource_name, url: registration_path(resource_name), html: {class: "form-horizontal", role: "form"}) do |f| %>
+    <%= devise_error_messages! %>
+
+    <div class='form-group'>
+      <%= f.label :your_first_name, class: "control-label col-sm-4" %>
+      <div class='col-sm-4'><%= f.text_field :person1_first, autofocus: true, class: "form-control", placeholder: "Your first name" %></div>
+    </div>
+
+    <div class='form-group'>
+      <%= f.label :your_last_name, class: "control-label col-sm-4" %>
+      <div class='col-sm-4'><%= f.text_field :person1_last, autofocus: true, class: "form-control", placeholder: "Your last name" %></div>
+    </div>
+
+    <div class='form-group'>
+      <%= f.label "Your partner's first name", class: "control-label col-sm-4" %>
+      <div class='col-sm-4'><%= f.text_field :person2_first, autofocus: true, class: "form-control", placeholder: "Your partner's first name" %></div>
+    </div>
+
+    <div class='form-group'>
+      <%= f.label "Your partner's last name", class: "control-label col-sm-4" %>
+      <div class='col-sm-4'><%= f.text_field :person2_last, autofocus: true, class: "form-control", placeholder: "Your partner's last name" %></div>
+    </div>    
+
+    <div class='form-group'>
+      <%= f.label :your_wedding_date, class: "control-label col-sm-4" %>
+      <div class='col-sm-4'><%= f.text_field :wedding_date, autofocus: true, class: "form-control", type: "date" %></div>
+    </div>        
+
+    <div class='form-group'>
+      <%= f.label :your_biography, class: "control-label col-sm-4" %>
+      <div class='col-sm-4'><%= f.text_area :couple_bio, autofocus: true, class: "form-control" %></div>
+    </div>
+
+    <div class='form-group'>
+      <%= f.label :your_picture, class: "control-label col-sm-4" %>
+      <div class='col-sm-4'><%= f.text_field :couple_pic, autofocus: true, class: "form-control", placeholder: "Link to your picture" %></div>
+    </div>        
+
+    <div class='form-group'>
+      <%= f.label :email, class: "control-label col-sm-4" %>
+      <div class='col-sm-4'><%= f.text_field :email, autofocus: true, class: "form-control", placeholder: "Your email", type: "email" %></div>
+    </div>
+
+    <div class='form-group'>
+      <%= f.label :password, class: "control-label col-sm-4" %><% if @validatable %><i>(<%= @minimum_password_length %> characters minimum)</i><% end %>
+      <div class='col-sm-4'><%= f.password_field :password, autocomplete: "off", class: "form-control", placeholder: "Password" %></div>
+    </div>
+
+    <div class='form-group'>
+      <%= f.label :password_confirmation, class: "control-label col-sm-4" %>
+      <div class='col-sm-4'><%= f.password_field :password_confirmation, autocomplete: "off", class: "form-control", placeholder: "Password confirmation" %></div>
+    </div>
+
+    <div class='form-group'>
+      <div class='col-sm-offset-4 col-sm-4'><%= f.submit "Sign up", class: "btn btn-primary" %></div>
+    </div>
+ 
+  <% end %>
+  <div class='col-sm-offset-4 col-sm-4'>
+    Already have an account?
+    <%= render "devise/shared/links" %>
+  </div>
+</div>
