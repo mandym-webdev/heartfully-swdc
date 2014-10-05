@@ -4,6 +4,7 @@ Rails.application.routes.draw do
   root to: "projects#home"
 
   get "/questionnaire" => "users#questionnaire"
+  get "/user" => "users#user"
 
   resources :projects
   resources :users, only: [:show]
