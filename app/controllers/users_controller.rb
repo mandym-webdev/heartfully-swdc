@@ -5,10 +5,8 @@ class UsersController < ApplicationController
     @user = User.find(params[:id])
   end
 
-  def questionnaire
-    @project = Project.find(1)
-    @user = User.find(params[:id])
-    render :questionnaire
+  def questions
+    render :questions
   end
 
   def user

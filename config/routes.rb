@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 
   root to: "projects#home"
 
-  get "/questionnaire" => "users#questionnaire"
+  get "/questions" => "users#questions"
   get "/user" => "users#user"
 
   resources :projects
