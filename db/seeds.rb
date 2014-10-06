@@ -25,11 +25,10 @@ Project.create([
     project_pic: "http://mandym.com/training/wp-content/uploads/2014/10/projectpagepic2.png"
   },
   {
-    project_name: "Solar Aid",
-    project_location: "Kenya",
+    project_name: "Solar Power",
+    project_location: "Zambia",
     project_type: "Environment/Energy",
-    project_description:"SolarAid is a leading international charity that provides access to clean, affordable solar lights.\n
-      Based in London and already working in Kenya, Malawi, Tanzania and Zambia we have set ourselves an ambitious goal: to eradicate the kerosene lamp from Africa by 2020.",
+    project_description:"Solar Power is a leading international charity that provides access to clean, affordable solar lights. We are working to eradicate energy poverty across Africa.",
     project_amount: 7000,
     project_pic: "http://mandym.com/training/wp-content/uploads/2014/10/projectpagepic3.png"
   }
